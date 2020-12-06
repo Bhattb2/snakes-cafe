@@ -74,9 +74,3 @@ if __name__ == "__main__":
     enter_order()
     submit_order()
 
-
-
-
-
-
-    
